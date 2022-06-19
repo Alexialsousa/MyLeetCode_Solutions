@@ -10,3 +10,4 @@
 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| Easy |
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| Easy |
 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| Medium |
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| Easy |
