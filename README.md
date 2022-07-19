@@ -12,3 +12,4 @@
 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| Medium |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| Easy |
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| Easy |
+| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| Easy |
