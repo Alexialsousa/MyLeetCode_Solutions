@@ -1,4 +1,4 @@
-# LeetCode Solutions
+# [LeetCode](https://leetcode.com/) Questions
 
 | Problem Title | Difficulty |
 |      ---      |    ----    |
