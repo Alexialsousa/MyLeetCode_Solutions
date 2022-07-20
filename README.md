@@ -2,14 +2,15 @@
 
 | Problem Title | Difficulty |
 |      ---      |    ----    |
-| [Two Sum](https://leetcode.com/problems/two-sum/)| Easy|
-| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| Medium|
-| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| Medium |
-| [Reverse Integer](https://leetcode.com/problems/reverse-integer/)| Medium |
-| [Palindrome Number](https://leetcode.com/problems/palindrome-number/)| Easy |
-| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| Easy |
-| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| Easy |
-| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| Medium |
-| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| Easy |
-| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| Easy |
-| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| Easy |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/)| Easy|
+| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| Medium|
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| Medium |
+| [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)| Medium |
+| [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)| Easy |
+| [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| Easy |
+| [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| Easy |
+| [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| Medium |
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| Easy |
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| Easy |
+| [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| Easy |
+| [27. Remove Element](https://leetcode.com/problems/remove-element/)| Easy |
