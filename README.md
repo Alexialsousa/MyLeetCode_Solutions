@@ -16,3 +16,4 @@
 | [27. Remove Element](https://leetcode.com/problems/remove-element/)| Easy |
 | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)| Easy |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)| Easy |
+| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| Medium |
