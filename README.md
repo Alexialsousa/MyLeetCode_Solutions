@@ -18,3 +18,4 @@
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)| Easy |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| Medium |
 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| Easy |
+| [66. Plus One](https://leetcode.com/problems/plus-one/)| Easy |
