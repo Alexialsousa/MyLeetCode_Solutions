@@ -20,3 +20,4 @@
 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| Easy |
 | [66. Plus One](https://leetcode.com/problems/plus-one/)| Easy |
 | [67. Add Binary](https://leetcode.com/problems/add-binary/)| Easy |
+| [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)| Easy |
